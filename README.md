@@ -1,6 +1,6 @@
 # Hi, I'm Chito
 
-## Engineering Consultant | IoT Systems | Energy Systems | ASP.NET & SQL Server
+## Engineering Systems Consultant | IoT Systems | Energy Systems | Enterprise Software
 
 I design and support real-world engineering systems across:
 
@@ -15,6 +15,14 @@ I design and support real-world engineering systems across:
 - IoT-based energy monitoring systems with cloud infrastructure
 - Legacy enterprise system maintenance and optimization
 - Engineering consulting for system architecture and feasibility studies
+
+---
+
+## Research Areas
+- IoT Monitoring
+- Cloud Infrastructure
+- Battery Monitoring Systems
+- Energy Analytics
 
 ---
 
@@ -40,8 +48,8 @@ I design and support real-world engineering systems across:
 
 ## Featured Projects
 
-IoT Energy Monitoring System  
 ASP.NET Enterprise System Maintenance  
+IoT Energy Monitoring System
 Energy System Design Simulations  
 
 (See repositories below)
