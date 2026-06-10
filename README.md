@@ -26,6 +26,16 @@ I design and support real-world engineering systems across:
 
 ---
 
+## Featured Projects
+
+IoT Energy Monitoring System  
+ASP.NET Enterprise System Maintenance  
+Energy System Design Simulations  
+
+(See repositories below)
+
+---
+
 ## Technical Skills
 
 **Energy Systems**
@@ -43,16 +53,6 @@ I design and support real-world engineering systems across:
 - C# / .NET Framework
 - SQL Server (MSSQL)
 - Legacy system maintenance
-
----
-
-## Featured Projects
-
-ASP.NET Enterprise System Maintenance 
-IoT Energy Monitoring System 
-Energy System Design Simulations  
-
-(See repositories below)
 
 ---
 
