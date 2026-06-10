@@ -48,9 +48,9 @@ I design and support real-world engineering systems across:
 
 ## Featured Projects
 
-ASP.NET Enterprise System Maintenance
-Energy System Design Simulations
-IoT Energy Monitoring System
+ASP.NET Enterprise System Maintenance 
+IoT Energy Monitoring System 
+Energy System Design Simulations  
 
 (See repositories below)
 
